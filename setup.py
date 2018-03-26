@@ -6,7 +6,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="Caprices",
-    author="Antoine Prouvost"
+    author="Antoine Prouvost",
     version="0.1",
     packages=find_packages(),
     license="MIT",
